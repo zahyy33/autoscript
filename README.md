@@ -19,6 +19,6 @@ Buat berbagai VPN untuk VPS antara lain
 <br>==== Comming Soon ====
 <br><br>
 <center>Tutorial</center>
-<br>git clone https://github.com/cr4r1/ssh/
+<br>git clone https://github.com/zahyy33/ssh/
 <br>cd ssh
 <br>chmod 777 install&&./install
